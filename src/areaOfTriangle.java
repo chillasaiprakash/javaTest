@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class areaOfTriangle {
     import java.util.Scanner;
-    public static void main(String[] args) {
+  /*  public static void main(String[] args) {
         double a, b, c, s, area, x;
         Scanner sc = new Scanner(System.in);
         a = sc.nextDouble();
@@ -15,7 +15,7 @@ public class areaOfTriangle {
 
         System.out.println("area of triangle" + area);
         sc.close();
-
+/*
     }
 }
-55555
+
