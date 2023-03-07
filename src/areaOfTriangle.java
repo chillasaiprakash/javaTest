@@ -17,5 +17,4 @@ public class areaOfTriangle {
         sc.close();
 
     }
-}
-
+}ffff
